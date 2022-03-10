@@ -1,0 +1,31 @@
+local_planner: teb
+additionalArguments:
+  - value: teb
+    name: trainings_environment
+  - value: teb
+    name: network_type
+scenarios:
+  - robot: youbot
+    worlds:
+      - world: small_warehouse
+        scenario: small_warehouse_obs05.json
+      - world: map2
+        scenario: map2_obs05.json
+      - world: map5
+        scenario: map5_obs05.json
+  - robot: turtlebot3_burger
+    worlds:
+      - world: small_warehouse
+        scenario: small_warehouse_obs05.json
+      - world: map2
+        scenario: map2_obs05.json
+      - world: map5
+        scenario: map5_obs05.json
+  - robot: jackal
+    worlds:
+      - world: small_warehouse
+        scenario: small_warehouse_obs05.json
+      - world: map2
+        scenario: map2_obs05.json
+      - world: map5
+        scenario: map5_obs05.json
