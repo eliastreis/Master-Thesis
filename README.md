@@ -1,5 +1,5 @@
 # Master-Thesis
-This repository includes materials for the **arena-rosnav-3D **master thesis. \
+This repository includes materials for the **arena-rosnav-3D** master thesis. \
 > You can find a PDF version of the thesis [here]
 
 ## Data collection
