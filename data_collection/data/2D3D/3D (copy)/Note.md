@@ -1,1 +1,0 @@
-Note that map5 was damaged at some point. Therefore runs might double, and old runs might be deleted
