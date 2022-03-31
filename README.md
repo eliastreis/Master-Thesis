@@ -1,5 +1,5 @@
 # 📖 Master-Thesis
-This repository includes materials for the **arena-rosnav-3D** master thesis.
+This repository includes materials for the **arena-bench** master thesis.
 > You can find a PDF version of the thesis [here]
 
 ## Data collection
@@ -13,6 +13,6 @@ To comprehend the benefit of realistic robot-modeling in dynamic real-live like 
 
 ## Results
 This folder contains a comprehensive list of evaluation results.
-- Find in Folder [sim-factor](results/sim_factor) results regarding the gazebo simulation factor
 - Find in Folder [2D3D](results/2D3D) comparisons between the 2D Flatland simulator and the 3D Gazebo simulator
-- Find in Folder [emergency-break](results/emergency_break) the evaluations regarding the emergency break systems with mobile robots
+- Find in Folder [emergency-break](results/emergency_break) the evaluations regarding the emergency break systems with mobile robots in a 3D environment
+- Find in Folder [comparison-local-planner](results/comparison-local-planner/) the results of comparing the behavior of the local planner with different robots according to the probability of collision-free navigation.
