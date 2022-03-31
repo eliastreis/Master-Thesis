@@ -16,3 +16,6 @@ This folder contains a comprehensive list of evaluation results.
 - Find in Folder [2D3D](results/2D3D) comparisons between the 2D Flatland simulator and the 3D Gazebo simulator
 - Find in Folder [emergency-break](results/emergency_break) the evaluations regarding the emergency break systems with mobile robots in a 3D environment
 - Find in Folder [comparison-local-planner](results/comparison-local-planner/) the results of comparing the behavior of the local planner with different robots according to the probability of collision-free navigation.
+---
+## Data-Visualization
+To recreate the figures from the project report and work with the dataset, the notebook `figure_creation_script` was included, which contains the required code.
