@@ -1,6 +1,6 @@
 # 📖 Master-Thesis
 This repository includes materials for the **arena-bench** master thesis.
-> You can find a PDF version of the thesis [here]()
+> You can find a PDF version of the thesis [here](THESIS_BenchmarkingAlgorithmsOnRobots.pdf)
 
 ## Data collection
 To comprehend the benefit of realistic robot-modeling in dynamic real-live like scenarios, extensive benchmarking has been conducted. 
